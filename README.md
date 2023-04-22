@@ -1,5 +1,5 @@
 # Image--Caption-Generator
-This project is a prototype of Image-caption generator, using Transformers
+This project is a prototype of Image-caption generator, using Transformer
 
 # Dataset
 This caption generartor can recognize only dogs and child(age from 3 to 13) images 
