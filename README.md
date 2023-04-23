@@ -2,7 +2,7 @@
 This project is a prototype of Image-caption generator, using Transformer
 
 # Dataset
-This caption generartor can recognize only dogs and child(age from 3 to 13) images 
+This caption generator can recognize only dogs and child(age from 3 to 13) images 
 This dataset contains 50 images of dogs and 52 images are of toddlers and children
 Each image has its five corresponding captions
 The images are of high quality(more than 224x224 resolution)
